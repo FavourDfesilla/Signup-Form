@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(255, 80, 80);
+    /* height: 50rem; */
+    margin-top: 70px;
+    border-radius: 20px;
+
+}
+.form{
+    background-color: white;
+    /* margin-top: 200px; */
+    width: 350px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 1px 1px 35px 1px rgb(68, 65, 65);
+    border-radius: 5px;
+    height: 380px;
+    /* margin-left: 500px; */
+}
+.task{
+    display: flex;
+    justify-content: space-between;
+}
+.item1{
+    margin: 0 0 0 20px;
+}
+.four{
+    margin: 5px 20px 0 20px;
+    height: 35px;
+    
+}
+.delete{
+    border-radius: 30px;
+    border: 1px solid gray;
+    padding: 5px; 
+    background-color: white;
+}
+.some{
+display: flex;
+}
+p{
+    margin: 0;
+}
+.thing{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+.css{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+.html{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+.vue{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+.add{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    /* border-radius: 50px;
+    border: 1px; */
+}
+.input{
+    border-radius: 30px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+hr{
+    color: rgb(216, 204, 204);
+    border: 0.1pt solid;
+}
+.add2{
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px;
+    border: 1pt solid gray;
+}
+/* button{
+    float: right;
+} */

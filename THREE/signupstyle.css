@@ -1,0 +1,100 @@
+.download button a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+body{
+    background-color: rgb(213, 228, 228);
+}
+.download{
+    width: fit-content;margin: auto;
+
+}
+.down{
+    background-color: red;
+    border: none;
+
+}
+.free{
+    margin: auto;
+    width: fit-content;
+}
+.container{
+display: grid;
+    width: fit-content;
+    margin: auto;
+    grid-template-columns: auto auto;
+    grid-gap: 15px;
+}
+.login1{
+    color: rgb(40, 156, 122);
+    text-align: center;
+}
+.longin2{
+    color: white;
+    text-align: center;
+}
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 15px;
+    outline: none;
+}
+.form1content{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+}
+.form2content{
+    background-color:  rgb(90, 11, 163);
+    background-color: rgba(39, 39, 161, 0.822);
+    width: 250px;
+    height: 250px;
+}
+.next1{
+    justify-content: center;
+    background-color: rgb(40, 156, 122);
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.next2{
+   border: 1px solid white;
+   margin-top: 20px;
+   font-size: 20PX;
+   background:transparent;
+   color: white;
+}
+.your{
+    background: transparent;
+    border-bottom: 1px solid white;
+}
+.your::placeholder{
+    color: white;
+}
+.signup1{
+    background-image: linear-gradient(to right,pink,deeppink);
+    color: white;
+    margin-top: 15px;
+    width: 250px;
+    height: 60px;
+    border: none;
+}
+.signup2{
+    margin-top: 15px;
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    color: orangered;
+    border: none;
+}
+.button1{
+    margin: auto;
+    width: fit-content;
+}
+.button2{
+    margin: auto;
+    width: fit-content;
+}
